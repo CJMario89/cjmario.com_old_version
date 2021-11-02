@@ -1,0 +1,45 @@
+#Front_cover{
+	opacity: 0.3;
+}
+#fc{
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	z-index: -100;
+	height: 100%;
+    width: 100%;
+}
+
+#TB{
+	position: fixed;
+	margin-top: 10px;
+	top: 0%;
+	left: 100px;
+	font-family: DFKai-sb;
+	font-size: 30px;
+	color: #E6E6FA;
+	z-index: 3;
+}
+.Content{
+	font-size: 18px;
+	font-family: DFKai-sb;
+	text-align: center;
+	color: #E6E6FA;
+	background-color: #808080;
+	text-align: center;
+}
+.P_title{
+	font-size: 14px;
+	font-family: DFKai-sb;
+	text-align: center;
+	color: #E6E6FA;
+	background-color: #808080;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	width: 200px;
+	text-align: center;
+}
+.Picture{
+	margin-bottom: 1px;
+	text-align: center;
+}

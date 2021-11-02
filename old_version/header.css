@@ -1,0 +1,73 @@
+html{
+	margin: 0 auto;
+	height: 100%;
+	width: 100%;
+	padding: 0;
+}
+body{
+	margin: 0 auto;
+	height: 100%;
+	width: 100%;
+	padding: 0;
+}
+#CJMario{
+	top: 0px;
+	left: 0px;
+	position: fixed;
+	z-index: 2;
+	width: 22%;
+}
+h1{
+	text-align: center;
+	color: #E6E6FA;
+}
+#Bar{
+	position: fixed;
+	z-index: 1;
+	width: inherit;
+	top: 0px;
+	left: 0px;
+}
+#Menu{
+	position: fixed;
+	top: 0px;
+	right: 10px;
+	z-index: 4;
+}
+.Menu{
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	color: #808080;
+	font-family: Times, Times New Roman, serif;
+	font-size: 26px;
+	height: 55px;
+	line-height: 55px;
+	border: #808080 0.1px solid;
+	z-index: 3;
+}
+#Menu_Outer{
+	position: fixed;
+	background-color: #E6E6FA;
+	text-align: center;
+	top: 55px;
+	right: 0px;
+	left: 0px;
+	z-index: 3;
+	visibility: hidden;
+}
+
+
+@media screen and (min-width: 800px){
+	#CJMario{
+		width: 100px;
+		height: 70px;
+	}
+	#Bar{
+		height: 70px;
+	}
+	#Menu{
+		width: 60px;
+		height: 70px;
+	}
+}

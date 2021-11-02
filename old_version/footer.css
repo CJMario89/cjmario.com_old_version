@@ -1,0 +1,26 @@
+div#footer > p{
+	background-color: #808080;
+	font-size: 10px;
+	color: black;
+	width: inherit;
+	bottom: 0px;
+	padding: 10px;
+	padding-top: 50px;
+	margin: 0 auto;
+}
+#ig{
+	width: 15px;
+	height: 15px;
+}
+#fb{
+	width: 15px;
+	height: 15px;
+}
+#consistency{	
+	text-align: center;
+}
+div#consistency > img{
+	width: 80%;
+	height: auto;
+	margin: 20px;
+}

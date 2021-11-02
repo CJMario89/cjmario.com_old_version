@@ -1,0 +1,48 @@
+/*
+#f2d675		light yellow
+#E6E6FA		light purple
+#808080		gray
+*/
+
+
+
+h5{
+	margin: 0 auto;
+	margin-top: 35px;
+	text-align: center;
+	color:  #808080;
+	font-family: Times, Times New Roman, serif;
+}
+
+#entry{
+	text-align: center;
+	margin: 0 auto;
+}
+
+div#entry > p{
+	display: block;
+	margin: 5px;
+	margin-top: 20px;
+	text-align: center;
+	color: #808080;
+	width: 125px;
+	height: 75px;
+	line-height: 75px;
+	font-size: 16px;
+	font-family: Times, Times New Roman, serif;
+	border: 1px solid #808080;
+	display: inline-block;
+}
+
+
+.Finished{
+	background-color: #E6E6FA;
+}
+
+.Unfinished{
+	background-color: #E6E6E1;
+}
+
+.Developing{
+	background-color: #E6E6F0;
+}

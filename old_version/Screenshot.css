@@ -1,0 +1,56 @@
+#CJMario{
+	margin: 0 auto;
+	display: block;
+	position: relative;
+}
+#CJMario2{
+	margin: 0 auto;
+	display: block;
+	position: relative;
+}
+h2{
+	text-align: center;
+	font-family: Times, Times New Roman, serif;
+	color: #808080;
+}
+h3{
+	text-align: center;
+	font-family: Times, Times New Roman, serif;
+	color: #808080;
+}
+h4{
+	text-align: center;
+	font-family: Times, Times New Roman, serif;
+	color: #808080;
+}
+p{
+	font-size: 10px;
+	text-align: center;
+	font-family: Times, Times New Roman, serif;
+	color: #808080;
+}
+h6{
+	text-align: center;
+	font-family: Times, Times New Roman, serif;
+	color: #808080;
+}
+
+#Demo{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	z-index: 101;
+	text-align: center;
+	vertical-align: middle;
+	font-family: Times, Times New Roman, serif;
+}
+.Demo_photo{
+	margin: 0 auto;
+}
+
+#X{
+	font-size: 50px;
+	text-align: center;
+	z-index: 1001;
+}

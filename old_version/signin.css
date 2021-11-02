@@ -1,0 +1,18 @@
+
+.signin{
+	display: block;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: : 20px;
+	margin-right:10px;
+	text-align: center;
+	color: #808080;
+	width: 200px;
+	height: 80px;
+	line-height: 80px;
+	font-size: 16px;
+	font-family: Times, Times New Roman, serif;
+	border: 1px solid #E6E6FA;
+	background-color: #E6E6FA;
+	display: inline-block;
+}
